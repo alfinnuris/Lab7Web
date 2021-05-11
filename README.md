@@ -1,6 +1,23 @@
 # Lab7Web
 PHP Dasar
 
+Nama : Alfin Nuris Setiadi
+
+NIM : 311910738
+
+Kelas : TI.19.B1
+
+Prodi : Teknik Informatika
+
+Mata Kuliah : Pemrograman Web
+
+Dosen Pengajar : Agung Nugroho, S. Kom., M. Kom
+
+Tugas : Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan..
+
+
+# lab7_php_dasar
+
 Memulai PHP
 
 ![Screenshot (27)](https://user-images.githubusercontent.com/81596397/117650510-ffe28200-b1ba-11eb-90a0-9f8fda96acc2.png)
@@ -60,4 +77,4 @@ Codingan Tugas Php
 codingan Tugas Css
 ![image](https://user-images.githubusercontent.com/81596397/117752933-da4c8b80-b241-11eb-93b5-a5fbf3cd5b5a.png)
 
-Terimakasih
+**Terimakasih**
